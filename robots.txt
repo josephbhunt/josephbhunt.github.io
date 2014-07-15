@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://josephbhunt.github.io/sitemap.xml 
